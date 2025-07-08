@@ -1,0 +1,59 @@
+body {
+  background: transparent;
+  font-family: 'Comic Sans MS', sans-serif;
+  color: #66023c;
+  margin: 0;
+  padding: 0;
+}
+
+#lastfm {
+  background-color: #FFD6EB;
+  border-radius: 16px;
+  box-shadow: 0 0 10px #BFA8FF88;
+  padding: 1rem;
+  width: 100%;
+  max-width: 350px;
+  margin: auto;
+  text-align: center;
+}
+
+#topbar {
+  font-family: 'silly', sans-serif;
+  background-color: #BFA8FF;
+  color: #fff;
+  padding: 0.5rem 0;
+  border-radius: 12px;
+  margin-bottom: 0.5rem;
+  font-size: 1.2rem;
+  text-transform: lowercase;
+}
+
+#songinfo {
+  margin-top: 0.5rem;
+}
+
+#songinfo artist,
+#songinfo song,
+#songinfo album {
+  display: block;
+  font-weight: bold;
+  font-size: 0.9rem;
+  margin: 0.2rem 0;
+}
+
+#artwork {
+  width: 120px;
+  height: 120px;
+  border-radius: 10px;
+  border: 2px solid #eb88ff;
+  box-shadow: 0 0 8px #FBD5FF88;
+}
+
+a {
+  color: #3b0a4f;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
