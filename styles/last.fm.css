@@ -1,7 +1,7 @@
 body {
   background: transparent;
   font-family: 'Comic Sans MS', sans-serif;
-  color: #66023c;
+  color: #ffd6eb;
   margin: 0;
   padding: 0;
 }
@@ -9,7 +9,6 @@ body {
 #lastfm {
   background-color: #FFD6EB;
   border-radius: 16px;
-  box-shadow: 0 0 10px #BFA8FF88;
   padding: 1rem;
   width: 100%;
   max-width: 350px;
@@ -18,7 +17,7 @@ body {
 }
 
 #topbar {
-  font-family: 'silly', sans-serif;
+  font-family: 'Comic Sans MS', sans-serif;
   background-color: #BFA8FF;
   color: #fff;
   padding: 0.5rem 0;
