@@ -19,7 +19,7 @@ body {
 #topbar {
   font-family: 'Comic Sans MS', sans-serif;
   background-color: #FBD5FF;
-  color: #fff;
+  color: #66023c;
   padding: 0.5rem 0;
   border-radius: 12px;
   margin-bottom: 0.5rem;
@@ -49,7 +49,7 @@ body {
 }
 
 a {
-  color: #3b0a4f;
+  color: #66023c;
   text-decoration: none;
 }
 
